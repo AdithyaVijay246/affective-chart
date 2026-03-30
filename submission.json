@@ -1,0 +1,7 @@
+{
+  "prompt": "Macro documentary photograph of a cross-section of a massive, ancient tree stump, viewed from directly above. The rings of the tree represent a timeline of 145 years. The innermost rings are a cool, healthy silver-blue wood grain. Moving outward, the rings gradually darken to a scorched charcoal black. The outermost five percent of the rings are no longer wood, but are glowing with an intense, incandescent molten orange and searing red light, like dying embers in a fire. These final glowing rings are cracked and crumbling away into white ash at the very edge of the bark. Shallow depth of field focusing on the transition from charred wood to glowing heat. No text, no labels, no legends, no axes, no numbers visible in image. Mood: irreversible, quiet urgency, planetary fever. Color palette: deep Prussian blue, charcoal black, vibrant ember orange, and blinding white-hot red.",
+  "model": "DALL-E 3 via OpenAI (ChatGPT Plus)",
+  "dataset_name": "GISS Surface Temperature Analysis (GISTEMP v4)",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Since 1880, the Earth’s average surface temperature has risen by approximately 1.36°C, with the most extreme and accelerating warming occurring within the last decade."
+}
